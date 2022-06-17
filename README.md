@@ -1,8 +1,11 @@
-#Geographical Environment Module (GEM)
+# Geographical Environment Module (GEM)
 
 
-<img src="Images/1.jpg" width="490" /> <img src="Images/2.jpg" width="232" />  <img src="Images/3.jpg" width="200" />
-####(Left)Version 1 (Middle & Right)Version 2
+<img src="Images/1.jpg" width="360" />
+
+<img src="Images/2.jpg" width="220"/><img src="Images/3.jpg" width="189"/>
+
+(Upper)Version 1 (Lower)Version 2
 
 
 # Content
